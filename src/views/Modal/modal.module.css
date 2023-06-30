@@ -1,0 +1,23 @@
+.background{
+    position: fixed;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background-color: #000;
+}
+.modal{
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    color: #000;
+
+    padding: 4em;
+    background-color: #fff;
+    transform: translate(-50%, -50%);
+}
+h2, p{
+    
+}

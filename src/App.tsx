@@ -3,16 +3,16 @@ import { useState } from "react"
 import { Modal } from "./views/Modal"
 
 function App() {
-  const [open, setOpen] = useState<boolean>(false)
-  console.log('Modal: ', open)
+  
+  const [abrirModal, setModal] = useState<boolean>(false)
 
   return (
     <>
       <h2>Clique no botão para abrir o modal</h2>
       
-      <button onClick={() => setOpen(!open)}> Clique Aqui </button>
+      <button onClick={() => setModal(!abrirModal)}> Clique Aqui </button>
 
-      <Modal isOpen={open} titulo={'titulo'}  descricao={'descricao'} />
+      <Modal isOpen={abrirModal} isClose={setModal} titulo={"Rodrigo"} descricao={"Descricação Modal"} />
     </>
   )
 }

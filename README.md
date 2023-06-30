@@ -38,4 +38,8 @@ npm i --save react-toastify
 npm i styled-components@latest @types/styled-components
 ```
 
-### Props o tempo todo
+### Referências
+* ContextApi
+```
+https://www.youtube.com/watch?v=06GdS_2bmgs
+```
