@@ -15,10 +15,12 @@ https://www.npmjs.com/package/@types/uuid
 ```
 npm i --save uuidv4 @types/uuid
 ```
+
 * react-toastify
 ```
 npm i --save react-toastify
 ```
+
 * styled-componets
 ```
 npm i styled-components@latest @types/styled-components
