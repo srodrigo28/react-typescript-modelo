@@ -2,16 +2,24 @@
 
 ### Bibliotecas Usadas
 
-```uuidv4
+* uuidv4
+```
 https://www.npmjs.com/package/uuidv4
 ```
 
-```uuidv4 @types
+* uuidv4 @types
+```
 https://www.npmjs.com/package/@types/uuid
 ```
 
-```React-Toastify
+* React-Toastify
+```
 https://www.npmjs.com/package/react-toastify
+```
+
+* styled-componennts
+```
+https://www.npmjs.com/package/styled-components
 ```
 
 ### Dependências
