@@ -43,3 +43,18 @@ npm i styled-components@latest @types/styled-components
 ```
 https://www.youtube.com/watch?v=06GdS_2bmgs
 ```
+
+* ContextApi1
+```
+https://www.youtube.com/watch?v=iD94avNeoXM&t=5959s
+```
+
+* ContextApi vs Redux Context API e Redux não são concorrentes
+```
+https://www.youtube.com/watch?v=KRQmSw5wN0s
+```
+
+* Play List Redux
+```
+https://www.youtube.com/playlist?list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv
+```
