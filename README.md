@@ -11,9 +11,10 @@
     ```
 
 ### Dependências
-    ```uuidv4
-    npm i --save uuidv4 @types/uuid
-    ```
+* uuidv4
+```
+npm i --save uuidv4 @types/uuid
+```
     ```react-toastify
     npm i --save react-toastify
     ```
