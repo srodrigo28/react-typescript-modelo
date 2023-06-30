@@ -1,14 +1,18 @@
 ### React com TypeScript
 
 ### Bibliotecas Usadas
+
 ```uuidv4
 https://www.npmjs.com/package/uuidv4
+```
+
+```uuidv4 @types
 https://www.npmjs.com/package/@types/uuid
 ```
 
-    ```React-Toastify
-    https://www.npmjs.com/package/react-toastify
-    ```
+```React-Toastify
+https://www.npmjs.com/package/react-toastify
+```
 
 ### Dependências
 * uuidv4
