@@ -1,9 +1,9 @@
-import { Card } from "./views/Card"
+import { SelectText } from "./utils/SelectText"
 
 function App() {
   return (
     <>
-      <Card />
+      <SelectText />
     </>
   )
 }
