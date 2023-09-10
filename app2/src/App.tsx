@@ -1,12 +1,9 @@
-import { Produtos } from "./views/Produtos"
-import { Users } from "./views/Users"
+import { Products2 } from "./views/Products2"
 
 function App() {
-
   return (
     <>
-      <Produtos />
-      <Users />
+      <Products2 />
     </>
   )
 }

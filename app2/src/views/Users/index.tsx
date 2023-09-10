@@ -15,7 +15,6 @@ export function Users(){
         .then( res => res.json())
         .then( data => { setUsers(data)})
 
-        // console.log(users);
     }, [])
     
     return(
