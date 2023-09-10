@@ -1,0 +1,12 @@
+{
+    "produtos": [
+        {"id": 1, "nome": "Playstation 3", "descricao": "Game 2001",  "valor": "2000"},
+        {"id": 2, "nome": "Playstation 4", "descricao": "Game 2010",  "valor": "3000"},
+        {"id": 3, "nome": "Playstation 5", "descricao": "Game 2020",  "valor": "5000"}
+    ],
+    "users": [
+        {"id": 1, "nome": "Edson Sousa", "senha": "123456"},
+        {"id": 2, "nome": "Alex Nogueira", "senha": "123456"},
+        {"id": 3, "nome": "Beto Nascimento", "senha": "123456"}
+    ]
+}
