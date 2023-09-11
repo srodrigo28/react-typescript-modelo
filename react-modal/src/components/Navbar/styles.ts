@@ -1,13 +1,11 @@
-.container{
-    height: 100vh;
+import styled from "styled-components";
 
-    gap: 15px;
+export const Menu = styled.div`
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
 
     color: #fff;
-    
-    background-color: #000;
-}
+    background-color: darkviolet;
+`
